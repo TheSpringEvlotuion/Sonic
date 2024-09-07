@@ -1,0 +1,1906 @@
+{
+	"song": {
+		"events": [
+			[
+				10000,
+				[
+					[
+						"Trigger Subtitles",
+						"Talk about low budget flights, no food or movies?",
+						"3.20"
+					]
+				]
+			],
+			[
+				10004.3402777778,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				10008.6805555556,
+				[
+					[
+						"Play Animation",
+						"noFood",
+						"bf"
+					]
+				]
+			],
+			[
+				13320.3125,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				13324.6527777778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				13437.5,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Trigger Subtitles",
+						"Woo!",
+						"0.75"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				30004.3402777778,
+				[
+					[
+						"Play Animation",
+						"wooo",
+						"bf"
+					]
+				]
+			],
+			[
+				30407.9861111111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				30412.3263888889,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				30572.9166666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				39583.3333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Yeah!",
+						"0.75"
+					]
+				]
+			],
+			[
+				39587.6736111111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				39592.0138888889,
+				[
+					[
+						"Play Animation",
+						"yeah",
+						"bf"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				40004.3402777778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				40104.1666666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				51666.6666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"\"Alright Tails! To the Egg Carrier!\"",
+						"2"
+					]
+				]
+			],
+			[
+				51666.6666666666,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				51671.0069444444,
+				[
+					[
+						"Play Animation",
+						"yoshTails",
+						"bf"
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				53339.84375,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				53437.5,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				59583.3333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Cool!",
+						"0.6"
+					]
+				]
+			],
+			[
+				59587.6736111111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				59592.0138888889,
+				[
+					[
+						"Play Animation",
+						"cool",
+						"bf"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				60004.3402777778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				60156.25,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				66041.6666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"Hi there, I'm Sonic The Hedgehog!",
+						"3"
+					]
+				]
+			],
+			[
+				66041.6666666666,
+				[
+					[
+						"Change Character",
+						"bf",
+						"middle"
+					]
+				]
+			],
+			[
+				66046.0069444444,
+				[
+					[
+						"Play Animation",
+						"middle",
+						"bf"
+					]
+				]
+			],
+			[
+				68645.8333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Maaaaaaan, who's Robotnik kiddin', haha.",
+						"4"
+					]
+				]
+			],
+			[
+				71666.6666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"He already knows who's the fastest.",
+						"4"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Trigger Subtitles",
+						"Yeaaaah.",
+						"2"
+					]
+				]
+			],
+			[
+				76145.8333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"He must think I'm really stupid.",
+						"3"
+					]
+				]
+			],
+			[
+				78382.8125,
+				[
+					[
+						"Trigger Subtitles",
+						"I'll win that race no prob!",
+						"3"
+					]
+				]
+			],
+			[
+				80208.3333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"So now we can get down to the real fight!",
+						"3"
+					]
+				]
+			],
+			[
+				82604.1666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"The last Sonic standing will be the winner!",
+						"3"
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				85004.3402777778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				85104.1666666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				96666.6666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				96671.0069444445,
+				[
+					[
+						"Play Animation",
+						"shutUp",
+						"bf"
+					]
+				]
+			],
+			[
+				97291.6666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"SHUT UP, TAILS!",
+						"1"
+					]
+				]
+			],
+			[
+				98333.3333333334,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				98337.6736111112,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				98489.5833333334,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				99166.6666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"All right!",
+						"1"
+					]
+				]
+			],
+			[
+				99171.0069444445,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				99175.3472222223,
+				[
+					[
+						"Play Animation",
+						"alright",
+						"bf"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				100004.340277778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				100104.166666667,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				100901.041666667,
+				[
+					[
+						"Trigger Subtitles",
+						"No way!",
+						"0.8"
+					]
+				]
+			],
+			[
+				100907.118055556,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				100911.458333333,
+				[
+					[
+						"Play Animation",
+						"noWay",
+						"bf"
+					]
+				]
+			],
+			[
+				101666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				101671.006944445,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				101822.916666667,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				102557.291666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Here we go!",
+						"0.8"
+					]
+				]
+			],
+			[
+				102560.763888889,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				102565.104166667,
+				[
+					[
+						"Play Animation",
+						"hereWe",
+						"bf"
+					]
+				]
+			],
+			[
+				103333.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"You're",
+						"0.08"
+					]
+				]
+			],
+			[
+				103333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				103732.638888889,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				103750,
+				[
+					[
+						"Trigger Subtitles",
+						"You're too",
+						"0.8"
+					]
+				]
+			],
+			[
+				103754.340277778,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"0.08"
+					]
+				]
+			],
+			[
+				104166.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				104187.5,
+				[
+					[
+						"Trigger Subtitles",
+						"You're too slow!",
+						"0.8"
+					]
+				]
+			],
+			[
+				104192.708333333,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"0.08"
+					]
+				]
+			],
+			[
+				104895.833333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"-0.24"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				105004.340277778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				105833.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Let's move it!",
+						"0.8"
+					]
+				]
+			],
+			[
+				105837.673611111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				105842.013888889,
+				[
+					[
+						"Play Animation",
+						"letsMove",
+						"bf"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				106671.006944445,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				107588.541666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Perfect!",
+						"0.8"
+					]
+				]
+			],
+			[
+				107591.145833333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				107595.486111111,
+				[
+					[
+						"Play Animation",
+						"perfect",
+						"bf"
+					]
+				]
+			],
+			[
+				108333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				108337.673611111,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				109236.979166667,
+				[
+					[
+						"Trigger Subtitles",
+						"Too easy!",
+						"0.8"
+					]
+				]
+			],
+			[
+				109240.451388889,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				109244.791666667,
+				[
+					[
+						"Play Animation",
+						"tooEz",
+						"bf"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				110004.340277778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				110208.333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				110833.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"I agree!",
+						"0.8"
+					]
+				]
+			],
+			[
+				110837.673611111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines1"
+					]
+				]
+			],
+			[
+				110842.013888889,
+				[
+					[
+						"Play Animation",
+						"iAgree",
+						"bf"
+					]
+				]
+			],
+			[
+				111666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				111671.006944445,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				112083.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"That was cool!",
+						"0.8"
+					]
+				]
+			],
+			[
+				112087.673611111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				112092.013888889,
+				[
+					[
+						"Play Animation",
+						"thatwascool",
+						"bf"
+					]
+				]
+			],
+			[
+				112916.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				112921.006944445,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				116666.666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Yeah,",
+						"1"
+					]
+				]
+			],
+			[
+				116671.006944445,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				116675.347222222,
+				[
+					[
+						"Play Animation",
+						"yehGottem",
+						"bf"
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Trigger Subtitles",
+						"Yeah, got em all!",
+						"0.8"
+					]
+				]
+			],
+			[
+				118333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				118337.673611111,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				118489.583333333,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				123333.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Uhhhh,",
+						"1"
+					]
+				]
+			],
+			[
+				123333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				123337.673611111,
+				[
+					[
+						"Play Animation",
+						"uhMeow",
+						"bf"
+					]
+				]
+			],
+			[
+				124166.666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Uhhhh, meow?",
+						"0.8"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				125004.340277778,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				125208.333333333,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				137708.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Let's rock!",
+						"1"
+					]
+				]
+			],
+			[
+				137712.673611111,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				137717.013888889,
+				[
+					[
+						"Play Animation",
+						"letsRock",
+						"bf"
+					]
+				]
+			],
+			[
+				138333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				138333.333333333,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				144166.666666667,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				146666.666666667,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				148333.333333333,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				155000,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				156666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				156673.177083333,
+				[
+					[
+						"Play Animation",
+						"cmonStep",
+						"bf"
+					]
+				]
+			],
+			[
+				157083.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Cmon,",
+						"1.5"
+					]
+				]
+			],
+			[
+				157760.416666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Cmon, step it up!",
+						"1.5"
+					]
+				]
+			],
+			[
+				158333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				158333.333333333,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				163333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"0.75",
+						"1.5"
+					]
+				]
+			],
+			[
+				164166.666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"No",
+						"1.5"
+					]
+				]
+			],
+			[
+				164171.006944444,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				164175.347222222,
+				[
+					[
+						"Play Animation",
+						"noo",
+						"bf"
+					]
+				]
+			],
+			[
+				164192.708333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Noo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164218.75,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164244.791666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164270.833333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164296.875,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164322.916666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164348.958333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164375,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164401.041666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164427.083333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164453.125,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164479.166666667,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164505.208333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Noooooooooooooo",
+						"1.5"
+					]
+				]
+			],
+			[
+				164531.25,
+				[
+					[
+						"Trigger Subtitles",
+						"Nooooooooooooooo!",
+						"1.5"
+					]
+				]
+			],
+			[
+				164895.833333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				164995.659722222,
+				[
+					[
+						"Toggle IceCap Zone",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				165004.340277778,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"-0.1"
+					]
+				]
+			],
+			[
+				165008.680555556,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				165104.166666667,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				170903.645833333,
+				[
+					[
+						"Trigger Subtitles",
+						"How's that?",
+						"1.5"
+					]
+				]
+			],
+			[
+				170907.118055555,
+				[
+					[
+						"Play Midground Sonics Animation",
+						"howsThat",
+						""
+					]
+				]
+			],
+			[
+				176979.166666667,
+				[
+					[
+						"Set Strum Alpha",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				177287.326388889,
+				[
+					[
+						"Terria!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177291.666666667,
+				[
+					[
+						"Trigger Subtitles",
+						"\"Teriaaaaaa!\"",
+						"1.5"
+					]
+				]
+			],
+			[
+				177296.006944444,
+				[
+					[
+						"Play Midground Sonics Animation",
+						"shock",
+						""
+					]
+				]
+			],
+			[
+				177500,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				178229.166666667,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				178333.333333333,
+				[
+					[
+						"Toggle IceCap Zone",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				178333.333333333,
+				[
+					[
+						"Set Strum Alpha",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				178337.673611111,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"0.1"
+					]
+				]
+			],
+			[
+				190833.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"voicelines2"
+					]
+				]
+			],
+			[
+				190839.84375,
+				[
+					[
+						"Play Animation",
+						"imOut",
+						"bf"
+					]
+				]
+			],
+			[
+				191041.666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"I'm outta here!",
+						"1.5"
+					]
+				]
+			],
+			[
+				191666.666666666,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				191666.666666666,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				193392.361111111,
+				[
+					[
+						"Trigger Subtitles",
+						"It's over?",
+						"1"
+					]
+				]
+			],
+			[
+				193394.097222222,
+				[
+					[
+						"Change Character",
+						"bf",
+						"finale"
+					]
+				]
+			],
+			[
+				193398.4375,
+				[
+					[
+						"Play Animation",
+						"finale",
+						"bf"
+					]
+				]
+			],
+			[
+				194166.666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"It's over? That was fast.",
+						"1"
+					]
+				]
+			],
+			[
+				195351.5625,
+				[
+					[
+						"Trigger Subtitles",
+						"I'm good!",
+						"1"
+					]
+				]
+			],
+			[
+				196736.979166666,
+				[
+					[
+						"Trigger Subtitles",
+						"This game of tag is boring!",
+						"2"
+					]
+				]
+			],
+			[
+				198750,
+				[
+					[
+						"Trigger Subtitles",
+						"That's no good!",
+						"2"
+					]
+				]
+			],
+			[
+				200000,
+				[
+					[
+						"Trigger Subtitles",
+						"Piece of cake, let's roll!",
+						"2"
+					]
+				]
+			],
+			[
+				202083.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Go!",
+						"0.5"
+					]
+				]
+			],
+			[
+				202916.666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"Nani?",
+						"0.5"
+					]
+				]
+			],
+			[
+				203687.5,
+				[
+					[
+						"Trigger Subtitles",
+						"Yeah!",
+						"0.5"
+					]
+				]
+			],
+			[
+				204583.333333333,
+				[
+					[
+						"Trigger Subtitles",
+						"Ha!",
+						"0.5"
+					]
+				]
+			],
+			[
+				204995.659722222,
+				[
+					[
+						"Camera Fade Out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CrisisSonic"
+					]
+				]
+			],
+			[
+				205004.340277777,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"bf"
+					]
+				]
+			],
+			[
+				205008.680555555,
+				[
+					[
+						"Change Default Camera Zoom",
+						"",
+						"-0.2"
+					]
+				]
+			],
+			[
+				205104.166666666,
+				[
+					[
+						"Play FC Milestone",
+						"",
+						""
+					]
+				]
+			],
+			[
+				209166.666666666,
+				[
+					[
+						"Trigger Subtitles",
+						"Hey, we should do this again sometime!",
+						"3"
+					]
+				]
+			]
+		]
+	}
+}
