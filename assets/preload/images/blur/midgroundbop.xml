@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="midgroundbop.png">
+<SubTexture name="backBoppers0000" x="829" y="243" width="402" height="242" frameX="-10" frameY="-3" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0001" x="829" y="243" width="402" height="242" frameX="-10" frameY="-3" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0002" x="411" y="490" width="407" height="243" frameX="-6" frameY="-2" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0003" x="829" y="0" width="407" height="243" frameX="-6" frameY="-2" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0004" x="414" y="245" width="411" height="244" frameX="-4" frameY="-1" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0005" x="0" y="490" width="411" height="244" frameX="-4" frameY="-1" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0006" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0007" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0008" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0009" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0010" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers0011" x="0" y="0" width="415" height="245" frameX="0" frameY="0" frameWidth="415" frameHeight="245" />
+<SubTexture name="backBoppers shock0000" x="415" y="0" width="414" height="245" frameX="-12" frameY="0" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0001" x="0" y="245" width="414" height="245" frameX="-12" frameY="0" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0002" x="0" y="977" width="420" height="242" frameX="-5" frameY="-3" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0003" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0004" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0005" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0006" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0007" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0008" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0009" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0010" x="425" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0011" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0012" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0013" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0014" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0015" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0016" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0017" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0018" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0019" x="425" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0020" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0021" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0022" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0023" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0024" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0025" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0026" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0027" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0028" x="425" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0029" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0030" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0031" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0032" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0033" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0034" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0035" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0036" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0037" x="425" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0038" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="backBoppers shock0039" x="0" y="734" width="425" height="243" frameX="0" frameY="-2" frameWidth="426" frameHeight="245" />
+<SubTexture name="howsThat0000" x="1640" y="0" width="408" height="225" frameX="-3" frameY="-14" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0001" x="1640" y="0" width="408" height="225" frameX="-3" frameY="-14" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0002" x="0" y="1459" width="412" height="223" frameX="0" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0003" x="0" y="1459" width="412" height="223" frameX="0" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0004" x="412" y="1459" width="412" height="223" frameX="-2" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0005" x="412" y="1459" width="412" height="223" frameX="-2" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0006" x="824" y="1459" width="413" height="223" frameX="-2" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0007" x="1237" y="1459" width="413" height="223" frameX="-2" frameY="-16" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0008" x="1217" y="1219" width="410" height="239" frameX="-5" frameY="-1" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0009" x="1217" y="1219" width="410" height="239" frameX="-5" frameY="-1" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0010" x="829" y="486" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0011" x="829" y="486" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0012" x="420" y="977" width="402" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0013" x="822" y="977" width="402" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0014" x="1236" y="0" width="403" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0015" x="1236" y="240" width="403" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0016" x="0" y="1219" width="405" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0017" x="0" y="1219" width="405" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0018" x="405" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0019" x="405" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0020" x="405" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0021" x="405" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0022" x="811" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+<SubTexture name="howsThat0023" x="405" y="1219" width="406" height="240" frameX="-9" frameY="0" frameWidth="415" frameHeight="240" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foregroundbop.png">
+	
+	
+	<SubTexture name="foreboppers0000" x="0" y="0" width="668" height="349" frameX="-7" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0001" x="0" y="0" width="668" height="349" frameX="-7" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0002" x="678" y="0" width="674" height="349" frameX="-3" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0003" x="678" y="0" width="674" height="349" frameX="-3" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0004" x="0" y="359" width="678" height="349" frameX="-2" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0005" x="0" y="359" width="678" height="349" frameX="-2" frameY="-2" frameWidth="681" frameHeight="351" />
+	<SubTexture name="foreboppers0006" x="688" y="359" width="681" height="351" />
+	<SubTexture name="foreboppers0007" x="688" y="359" width="681" height="351" />
+	<SubTexture name="foreboppers0008" x="688" y="359" width="681" height="351" />
+	<SubTexture name="foreboppers0009" x="688" y="359" width="681" height="351" />
+	<SubTexture name="foreboppers0010" x="688" y="359" width="681" height="351" />
+	<SubTexture name="foreboppers0011" x="688" y="359" width="681" height="351" />
+</TextureAtlas>

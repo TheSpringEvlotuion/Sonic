@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="terria.png">
+	
+	
+	<SubTexture name="teyah0000" x="0" y="0" width="123" height="134" frameX="-467" frameY="-345" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0001" x="0" y="0" width="123" height="134" frameX="-467" frameY="-345" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0002" x="133" y="0" width="215" height="235" frameX="-368" frameY="-244" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0003" x="133" y="0" width="215" height="235" frameX="-368" frameY="-244" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0004" x="358" y="0" width="288" height="340" frameX="-246" frameY="-140" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0005" x="358" y="0" width="288" height="340" frameX="-246" frameY="-140" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0006" x="656" y="0" width="404" height="420" frameX="-129" frameY="-59" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0007" x="656" y="0" width="404" height="420" frameX="-129" frameY="-59" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0008" x="1070" y="0" width="530" height="472" frameX="-3" frameY="-7" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0009" x="1611" y="0" width="379" height="221" frameX="-3" frameY="-7" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0010" x="0" y="482" width="312" height="221" frameX="-3" frameY="-7" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0011" x="0" y="482" width="312" height="221" frameX="-3" frameY="-7" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0012" x="322" y="482" width="263" height="222" frameX="-3" frameY="-6" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0013" x="322" y="482" width="263" height="222" frameX="-3" frameY="-6" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0014" x="596" y="482" width="261" height="221" frameX="-4" frameY="-6" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0015" x="596" y="482" width="261" height="221" frameX="-4" frameY="-6" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0016" x="867" y="482" width="262" height="221" frameX="-2" frameY="-4" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0017" x="867" y="482" width="262" height="221" frameX="-2" frameY="-4" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0018" x="1140" y="482" width="262" height="221" frameX="-2" frameY="-4" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0019" x="1140" y="482" width="262" height="221" frameX="-2" frameY="-4" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0020" x="1412" y="482" width="262" height="221" frameX="-1" frameY="-2" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0021" x="1412" y="482" width="262" height="221" frameX="-1" frameY="-2" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0022" x="1684" y="482" width="262" height="221" frameX="-2" frameY="-2" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0023" x="1684" y="482" width="262" height="221" frameX="-2" frameY="-2" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0024" x="0" y="714" width="262" height="221" frameX="0" frameY="0" frameWidth="589" frameHeight="479" />
+	<SubTexture name="teyah0025" x="0" y="714" width="262" height="221" frameX="0" frameY="0" frameWidth="589" frameHeight="479" />
+</TextureAtlas>
