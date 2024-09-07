@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScoreMilestoneText.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="200 Combo0000" x="0" y="0" width="525" height="11" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0001" x="0" y="0" width="525" height="11" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0002" x="525" y="0" width="525" height="30" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0003" x="525" y="0" width="525" height="30" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0004" x="525" y="0" width="525" height="30" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0005" x="1050" y="0" width="525" height="44" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0006" x="1050" y="0" width="525" height="44" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0007" x="1050" y="0" width="525" height="44" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0008" x="0" y="44" width="525" height="55" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0009" x="0" y="44" width="525" height="55" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0010" x="0" y="44" width="525" height="55" frameX="0" frameY="0" frameWidth="525" frameHeight="72"/>
+	<SubTexture name="200 Combo0011" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0012" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0013" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0014" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0015" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0016" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0017" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0018" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="200 Combo0019" x="525" y="44" width="525" height="72"/>
+	<SubTexture name="300 Combo0000" x="1050" y="44" width="446" height="11" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0001" x="1050" y="44" width="446" height="11" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0002" x="1496" y="44" width="446" height="30" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0003" x="1496" y="44" width="446" height="30" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0004" x="1496" y="44" width="446" height="30" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0005" x="0" y="116" width="446" height="44" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0006" x="0" y="116" width="446" height="44" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0007" x="0" y="116" width="446" height="44" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0008" x="446" y="116" width="446" height="55" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0009" x="446" y="116" width="446" height="55" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0010" x="446" y="116" width="446" height="55" frameX="0" frameY="0" frameWidth="446" frameHeight="72"/>
+	<SubTexture name="300 Combo0011" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0012" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0013" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0014" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0015" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0016" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0017" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0018" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="300 Combo0019" x="892" y="116" width="446" height="72"/>
+	<SubTexture name="350 Combo0000" x="1338" y="116" width="307" height="11" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0001" x="1338" y="116" width="307" height="11" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0002" x="1645" y="116" width="307" height="30" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0003" x="1645" y="116" width="307" height="30" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0004" x="1645" y="116" width="307" height="30" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0005" x="0" y="188" width="307" height="44" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0006" x="0" y="188" width="307" height="44" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0007" x="0" y="188" width="307" height="44" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0008" x="307" y="188" width="307" height="55" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0009" x="307" y="188" width="307" height="55" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0010" x="307" y="188" width="307" height="55" frameX="0" frameY="0" frameWidth="307" frameHeight="72"/>
+	<SubTexture name="350 Combo0011" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0012" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0013" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0014" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0015" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0016" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0017" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0018" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="350 Combo0019" x="614" y="188" width="307" height="72"/>
+	<SubTexture name="50 Combo0000" x="921" y="188" width="472" height="11" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0001" x="921" y="188" width="472" height="11" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0002" x="1393" y="188" width="472" height="30" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0003" x="1393" y="188" width="472" height="30" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0004" x="1393" y="188" width="472" height="30" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0005" x="0" y="260" width="472" height="44" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0006" x="0" y="260" width="472" height="44" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0007" x="0" y="260" width="472" height="44" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0008" x="472" y="260" width="472" height="55" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0009" x="472" y="260" width="472" height="55" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0010" x="472" y="260" width="472" height="55" frameX="0" frameY="0" frameWidth="472" frameHeight="72"/>
+	<SubTexture name="50 Combo0011" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0012" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0013" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0014" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0015" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0016" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0017" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0018" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="50 Combo0019" x="944" y="260" width="472" height="72"/>
+	<SubTexture name="500 Combo0000" x="1416" y="260" width="203" height="11" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0001" x="1416" y="260" width="203" height="11" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0002" x="1619" y="260" width="203" height="30" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0003" x="1619" y="260" width="203" height="30" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0004" x="1619" y="260" width="203" height="30" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0005" x="1822" y="260" width="203" height="44" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0006" x="1822" y="260" width="203" height="44" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0007" x="1822" y="260" width="203" height="44" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0008" x="0" y="332" width="203" height="55" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0009" x="0" y="332" width="203" height="55" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0010" x="0" y="332" width="203" height="55" frameX="0" frameY="0" frameWidth="203" frameHeight="72"/>
+	<SubTexture name="500 Combo0011" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0012" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0013" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0014" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0015" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0016" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0017" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0018" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="500 Combo0019" x="203" y="332" width="203" height="72"/>
+	<SubTexture name="69 Combo0000" x="406" y="332" width="377" height="11" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0001" x="406" y="332" width="377" height="11" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0002" x="783" y="332" width="377" height="30" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0003" x="783" y="332" width="377" height="30" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0004" x="783" y="332" width="377" height="30" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0005" x="1160" y="332" width="377" height="44" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0006" x="1160" y="332" width="377" height="44" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0007" x="1160" y="332" width="377" height="44" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0008" x="1537" y="332" width="377" height="55" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0009" x="1537" y="332" width="377" height="55" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0010" x="1537" y="332" width="377" height="55" frameX="0" frameY="0" frameWidth="377" frameHeight="72"/>
+	<SubTexture name="69 Combo0011" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0012" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0013" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0014" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0015" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0016" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0017" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0018" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="69 Combo0019" x="0" y="404" width="377" height="72"/>
+	<SubTexture name="Full Combo0000" x="377" y="404" width="351" height="11" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0001" x="377" y="404" width="351" height="11" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0002" x="728" y="404" width="351" height="30" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0003" x="728" y="404" width="351" height="30" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0004" x="728" y="404" width="351" height="30" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0005" x="1079" y="404" width="351" height="44" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0006" x="1079" y="404" width="351" height="44" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0007" x="1079" y="404" width="351" height="44" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0008" x="1430" y="404" width="351" height="55" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0009" x="1430" y="404" width="351" height="55" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0010" x="1430" y="404" width="351" height="55" frameX="0" frameY="0" frameWidth="351" frameHeight="72"/>
+	<SubTexture name="Full Combo0011" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0012" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0013" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0014" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0015" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0016" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0017" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0018" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Full Combo0019" x="0" y="476" width="351" height="72"/>
+	<SubTexture name="Miss 10000" x="351" y="476" width="278" height="11" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10001" x="351" y="476" width="278" height="11" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10002" x="629" y="476" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10003" x="629" y="476" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10004" x="629" y="476" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10005" x="907" y="476" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10006" x="907" y="476" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10007" x="907" y="476" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10008" x="1185" y="476" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10009" x="1185" y="476" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10010" x="1185" y="476" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 10011" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10012" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10013" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10014" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10015" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10016" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10017" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10018" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 10019" x="1463" y="476" width="278" height="72"/>
+	<SubTexture name="Miss 20000" x="1741" y="476" width="286" height="11" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20001" x="1741" y="476" width="286" height="11" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20002" x="0" y="548" width="286" height="30" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20003" x="0" y="548" width="286" height="30" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20004" x="0" y="548" width="286" height="30" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20005" x="286" y="548" width="286" height="44" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20006" x="286" y="548" width="286" height="44" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20007" x="286" y="548" width="286" height="44" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20008" x="572" y="548" width="286" height="55" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20009" x="572" y="548" width="286" height="55" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20010" x="572" y="548" width="286" height="55" frameX="0" frameY="0" frameWidth="286" frameHeight="72"/>
+	<SubTexture name="Miss 20011" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20012" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20013" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20014" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20015" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20016" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20017" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20018" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 20019" x="858" y="548" width="286" height="72"/>
+	<SubTexture name="Miss 30000" x="1144" y="548" width="467" height="11" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30001" x="1144" y="548" width="467" height="11" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30002" x="0" y="620" width="467" height="30" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30003" x="0" y="620" width="467" height="30" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30004" x="0" y="620" width="467" height="30" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30005" x="467" y="620" width="467" height="44" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30006" x="467" y="620" width="467" height="44" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30007" x="467" y="620" width="467" height="44" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30008" x="934" y="620" width="467" height="55" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30009" x="934" y="620" width="467" height="55" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30010" x="934" y="620" width="467" height="55" frameX="0" frameY="0" frameWidth="467" frameHeight="72"/>
+	<SubTexture name="Miss 30011" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30012" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30013" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30014" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30015" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30016" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30017" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30018" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 30019" x="1401" y="620" width="467" height="72"/>
+	<SubTexture name="Miss 40000" x="0" y="692" width="224" height="11" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40001" x="0" y="692" width="224" height="11" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40002" x="224" y="692" width="224" height="30" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40003" x="224" y="692" width="224" height="30" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40004" x="224" y="692" width="224" height="30" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40005" x="448" y="692" width="224" height="44" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40006" x="448" y="692" width="224" height="44" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40007" x="448" y="692" width="224" height="44" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40008" x="672" y="692" width="224" height="55" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40009" x="672" y="692" width="224" height="55" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40010" x="672" y="692" width="224" height="55" frameX="0" frameY="0" frameWidth="224" frameHeight="72"/>
+	<SubTexture name="Miss 40011" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40012" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40013" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40014" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40015" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40016" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40017" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40018" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 40019" x="896" y="692" width="224" height="72"/>
+	<SubTexture name="Miss 50000" x="1120" y="692" width="221" height="11" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50001" x="1120" y="692" width="221" height="11" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50002" x="1341" y="692" width="221" height="30" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50003" x="1341" y="692" width="221" height="30" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50004" x="1341" y="692" width="221" height="30" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50005" x="1562" y="692" width="221" height="44" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50006" x="1562" y="692" width="221" height="44" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50007" x="1562" y="692" width="221" height="44" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50008" x="1783" y="692" width="221" height="55" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50009" x="1783" y="692" width="221" height="55" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50010" x="1783" y="692" width="221" height="55" frameX="0" frameY="0" frameWidth="221" frameHeight="72"/>
+	<SubTexture name="Miss 50011" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50012" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50013" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50014" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50015" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50016" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50017" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50018" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 50019" x="0" y="764" width="221" height="72"/>
+	<SubTexture name="Miss 60000" x="221" y="764" width="278" height="11" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60001" x="221" y="764" width="278" height="11" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60002" x="499" y="764" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60003" x="499" y="764" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60004" x="499" y="764" width="278" height="30" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60005" x="777" y="764" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60006" x="777" y="764" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60007" x="777" y="764" width="278" height="44" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60008" x="1055" y="764" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60009" x="1055" y="764" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60010" x="1055" y="764" width="278" height="55" frameX="0" frameY="0" frameWidth="278" frameHeight="72"/>
+	<SubTexture name="Miss 60011" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60012" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60013" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60014" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60015" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60016" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60017" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60018" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 60019" x="1333" y="764" width="278" height="72"/>
+	<SubTexture name="Miss 70000" x="1611" y="764" width="154" height="11" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70001" x="1611" y="764" width="154" height="11" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70002" x="1765" y="764" width="154" height="30" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70003" x="1765" y="764" width="154" height="30" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70004" x="1765" y="764" width="154" height="30" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70005" x="0" y="836" width="154" height="44" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70006" x="0" y="836" width="154" height="44" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70007" x="0" y="836" width="154" height="44" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70008" x="154" y="836" width="154" height="55" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70009" x="154" y="836" width="154" height="55" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70010" x="154" y="836" width="154" height="55" frameX="0" frameY="0" frameWidth="154" frameHeight="72"/>
+	<SubTexture name="Miss 70011" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70012" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70013" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70014" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70015" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70016" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70017" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70018" x="308" y="836" width="154" height="72"/>
+	<SubTexture name="Miss 70019" x="308" y="836" width="154" height="72"/>
+</TextureAtlas>
