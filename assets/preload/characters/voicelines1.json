@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cool",
+			"indices": [],
+			"name": "cool"
+		},
+		{
+			"offsets": [
+				6,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hereWe",
+			"indices": [],
+			"name": "hereWe"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "letsMove",
+			"indices": [],
+			"name": "letsMove"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "noWay",
+			"indices": [],
+			"name": "noWay"
+		},
+		{
+			"offsets": [
+				6,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "noFood",
+			"indices": [],
+			"name": "nofood"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "perfect",
+			"indices": [],
+			"name": "perfect"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shutUp",
+			"indices": [],
+			"name": "shutUp"
+		},
+		{
+			"offsets": [
+				6,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tooEz",
+			"indices": [],
+			"name": "tooEz"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wooo",
+			"indices": [],
+			"name": "wooo"
+		},
+		{
+			"offsets": [
+				6,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeah",
+			"indices": [],
+			"name": "yeah"
+		},
+		{
+			"offsets": [
+				5,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yoshTails",
+			"indices": [],
+			"name": "yoshTails"
+		},
+		{
+			"offsets": [
+				6,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "iAgree",
+			"indices": [],
+			"name": "iAgree0"
+		},
+		{
+			"offsets": [
+				6,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alright",
+			"indices": [],
+			"name": "allright00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/voicelines",
+	"position": [
+		95,
+		480
+	],
+	"healthicon": "notsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		165
+	],
+	"camera_position": [
+		70,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

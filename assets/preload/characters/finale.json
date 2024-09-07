@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "finale",
+			"indices": [],
+			"name": "finale"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Final",
+	"position": [
+		65,
+		470
+	],
+	"healthicon": "notsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		165
+	],
+	"camera_position": [
+		75,
+		-145
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

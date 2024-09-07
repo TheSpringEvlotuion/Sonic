@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "imOut",
+			"fps": 24,
+			"name": "ImOut",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				6
+			],
+			"anim": "cmonStep",
+			"fps": 24,
+			"name": "cmonStep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				6
+			],
+			"anim": "noo",
+			"fps": 24,
+			"name": "noo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "thatwascool",
+			"fps": 24,
+			"name": "thatwascool",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "uhMeow",
+			"fps": 24,
+			"name": "uhMeow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "yehGottem",
+			"fps": 24,
+			"name": "yeh-Gottemall",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "letsRock",
+			"indices": [],
+			"name": "letsRock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/voicelines2",
+	"position": [
+		95,
+		505
+	],
+	"healthicon": "notsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		165
+	],
+	"camera_position": [
+		70,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
